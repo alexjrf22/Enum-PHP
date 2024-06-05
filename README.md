@@ -1,3 +1,3 @@
-### Trabalhando com Enum no PHP puro
+# Trabalhando com Enum no PHP puro
 
-## Varios exemplos de Enums para estudo
+### Varios exemplos de Enums para estudo
