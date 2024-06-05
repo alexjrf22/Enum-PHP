@@ -1,0 +1,19 @@
+{
+    "name": "alex/php-enum",
+    "description": "aprendendo enum",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Alex\\PhpEnum\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexandre Ferreira",
+            "email": "alexjrf22@gmail.com"
+        }
+    ],
+    "require": {
+        
+    }
+}
